@@ -1,16 +1,22 @@
-## Hi there 👋
+Im John, a Software Engineer based in Atlanta <br/>
+<br/>
+I love building whatever I can imagine <br/>
+<br/>
+I use Python, Flask, mySQL <br/>
+<br/>
+Currently studying at Georgia State University<br/>
+<br/>
+Fun Facts:
+<ul>
+<li>
+My favorite anime is Tokyo Ghoul
+</li>
+<li>
+I like solving leetcode in my sparetime
+</li>   
+<li>
+<strong>Hobbies</strong> anime, climbing, soccer, and creating
+</li>
+</ul>
 
-<!--
-**JohnSang16/JohnSang16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
