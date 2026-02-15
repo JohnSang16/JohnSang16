@@ -1,3 +1,5 @@
+
+### Hey there! 👋
 Im John, a Software Engineer based in Atlanta <br/>
 <br/>
 I love building whatever I can imagine <br/>
