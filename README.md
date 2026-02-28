@@ -14,10 +14,10 @@ Fun Facts:
 My favorite anime is Tokyo Ghoul
 </li>
 <li>
-Read the manga Vagabond
+My favorite manga rn is Vagabond
 </li>   
 <li>
-<strong>Hobbies</strong> anime, climbing, soccer, and building
+<strong>Hobbies</strong> anime, guitar, climbing, soccer, gym, and building
 </li>
 </ul>
 
