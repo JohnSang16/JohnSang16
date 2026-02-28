@@ -1,10 +1,10 @@
 
 ### Hey there! 👋
-Im John, a Software Engineer based in Atlanta <br/>
+Im John, I like to code stuff for fun <br/>
 <br/>
-I love building whatever I can imagine <br/>
+I'm addicted to caffeine<br/>
 <br/>
-I use Python, Flask, mySQL <br/>
+Python is my goat<br/>
 <br/>
 Currently studying at Georgia State University<br/>
 <br/>
@@ -14,10 +14,10 @@ Fun Facts:
 My favorite anime is Tokyo Ghoul
 </li>
 <li>
-I like solving leetcode in my sparetime
+Read the manga Vagabond
 </li>   
 <li>
-<strong>Hobbies</strong> anime, climbing, soccer, and creating
+<strong>Hobbies</strong> anime, climbing, soccer, and building
 </li>
 </ul>
 
