@@ -1,5 +1,5 @@
 
-### Hi 👋
+### Yoo 👋
 Im John, I like to code stuff for fun <br/>
 <br/>
 I'm addicted to caffeine<br/>
