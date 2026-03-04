@@ -4,9 +4,7 @@ Im John, I like to code stuff for fun <br/>
 <br/>
 I'm addicted to caffeine<br/>
 <br/>
-Python is my goat<br/>
-<br/>
-Currently studying at Georgia State University<br/>
+Claude is my goat<br/>
 <br/>
 Fun Facts:
 <ul>
@@ -17,7 +15,7 @@ My favorite anime is Tokyo Ghoul
 My favorite manga rn is Vagabond
 </li>   
 <li>
-<strong>Hobbies</strong> anime, guitar, climbing, soccer, gym, and building
+Hobbies: anime, guitar, climbing, soccer, gym, and coding(duh)
 </li>
 </ul>
 
