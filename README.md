@@ -20,11 +20,11 @@ Hobbies: anime, guitar, climbing, soccer, gym, and coding(duh)
 </ul>
 
 
-## 🌐 Connect w/ me:
+## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnsang-/)
 [![Instagram](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.tiktok.com/@johns777_forever/)
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
