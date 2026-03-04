@@ -9,10 +9,10 @@ Claude is my goat<br/>
 Fun Facts:
 <ul>
 <li>
-My favorite anime is Tokyo Ghoul
+fav anime: Bleach
 </li>
 <li>
-My favorite manga rn is Vagabond
+fav person: my mom
 </li>   
 <li>
 Hobbies: anime, guitar, climbing, soccer, gym, and coding(duh)
