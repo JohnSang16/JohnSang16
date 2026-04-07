@@ -1,11 +1,8 @@
 
 ### Yoo 👋
-Im John, I like to code stuff for fun <br/>
+im john, I like to code stuff for fun, i'm addicted to caffeine, and claude is my goat
 <br/>
-I'm addicted to caffeine<br/>
-<br/>
-Claude is my goat<br/>
-<br/>
+
 Fun Facts:
 <ul>
 <li>
