@@ -1,5 +1,5 @@
 
-### Yoo 👋
+### yurrrr
 im john, I like to code stuff for fun, i'm addicted to caffeine, and claude is my goat
 <br/>
 
