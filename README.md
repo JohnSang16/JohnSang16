@@ -19,7 +19,7 @@ hobbies: anime, guitar, climbing, soccer, gym, and coding(duh)
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnsang-/)
-[![Instagram](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.tiktok.com/@johns777_forever/)
+[![Gmail](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=linkedin&logoColor=white)](johnsang1970@gmail.com)
 
 ## 💻 Tech Stack
 Languages: 
