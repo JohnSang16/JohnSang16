@@ -1,6 +1,6 @@
 
 ### yurrrr
-im john, I like to code stuff for fun, i'm addicted to caffeine, and claude is my goat
+im john, i like coding
 <br/>
 
 im so cool:
