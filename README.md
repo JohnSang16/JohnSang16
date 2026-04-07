@@ -3,16 +3,16 @@
 im john, I like to code stuff for fun, i'm addicted to caffeine, and claude is my goat
 <br/>
 
-Fun Facts:
+im so cool:
 <ul>
 <li>
-fav anime: Bleach
+fav anime: bleach
 </li>
 <li>
-fav person: my mom
+fav person: mi mama
 </li>   
 <li>
-Hobbies: anime, guitar, climbing, soccer, gym, and coding(duh)
+hobbies: anime, guitar, climbing, soccer, gym, and coding(duh)
 </li>
 </ul>
 
