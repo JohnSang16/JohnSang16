@@ -9,10 +9,10 @@ im so cool:
 fav anime: bleach
 </li>
 <li>
-fav person: mi mama
+fav band: pierce the veil
 </li>   
 <li>
-hobbies: anime, guitar, climbing, soccer, gym, and coding(duh)
+hobbies: anime, guitar, music
 </li>
 </ul>
 
