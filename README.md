@@ -9,7 +9,7 @@ im so cool:
 fav anime: bleach
 </li>
 <li>
-fav band: pierce the veil
+fav book: feminist literature
 </li>   
 <li>
 hobbies: anime, guitar, music
