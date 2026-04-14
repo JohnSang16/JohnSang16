@@ -9,7 +9,7 @@ im so cool:
 fav anime: bleach
 </li>
 <li>
-fav book: feminist literature
+BANKAIII
 </li>   
 <li>
 hobbies: anime, guitar, music
