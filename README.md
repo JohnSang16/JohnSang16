@@ -3,7 +3,7 @@
 im john, i like coding
 <br/>
 
-im so cool:
+
 <ul>
 <li>
 fav anime: bleach
